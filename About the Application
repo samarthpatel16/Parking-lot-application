@@ -1,0 +1,5 @@
+About the Application
+
+The following code manages parking lot data where vehicles are assigned parking spots along with some additional related attributes. The objective of the program is to query the data based on user-entered criteria. The results display a summary based on the matched records which include the associated parking spot numbers, total vehicle black book estimated value, and the number of records that matched.
+
+"Black Book": refers to a published book that indexes the estimated value ($) of a car based on its year, make, and model.
